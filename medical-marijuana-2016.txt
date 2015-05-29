@@ -11,7 +11,7 @@ Section 1 – Medical Marijuana Section
 
 ➢ Provides for the dispensing and consumption of marijuana for medicinal purposes. That a person in possession of a state issued medical marijuana card can consume marijuana legally. 
 
-➢ Provides that possession of up to one and a half (1.5) ounces of marijuana by persons who can state a qualifying medical condition, but not in possession of a state issued medical marijuana license, shall constitute a misdemeanor offense with a fine not to exceed $400 
+➢ Provides that possession of up to one and a half (1.5) ounces of marijuana by persons not in possession of a state issued medical marijuana license, shall constitute a misdemeanor offense with a fine not to exceed $400 
 
 ➢ Provides that possession of up to six (6) marijuana plants, by persons who can state a qualifying medical condition, but not in possession of a state issued medical marijuana license, shall constitute a misdemeanor offense with a fine not to exceed $400 
 
@@ -21,35 +21,11 @@ Section 1 – Medical Marijuana Section
 
 ➢ To enact a regulatory office under the Oklahoma State Department of Health which will receive applications for medical license recipients, dispensaries, growers, and packagers within 120 days of the passage of this initiative. 
 
-➢ Provides for a tax on medical marijuana sales at 7% of total sale. This tax will be collected at the point of sale. Tax proceeds will go to first, finance the regulatory office. Should proceeds exceed the budgeted amount for running the regulatory office, any surplus would be split with 75% going to the Oklahoma State Education general fund and 25% going to the Oklahoma State Department of Health and earmarked for Drug and Alcohol rehabilitation. 
-
-➢ To provide that the Oklahoma State Department of Health shall, within 30 days of passage of this initiative, make available, on their website, in an easy to find location, an application for a medical marijuana license. The license will be good for one year, and the application fee will be $100. The methods of payment will be provided on the website. 
-
-➢ A temporary license application will also be available on the Oklahoma Department of Health website. A temporary medical marijuana license will be granted to any medical marijuana license holder from other states, provided that the state has a federally regulated medical marijuana program, and the applicant can prove they are a member of such. Temporary licenses will be issued for 30 days. Renewal will be granted with resubmission of a new application. No additional criteria will be required. 
-
-➢ To provide that medical marijuana license applicants will submit their application to the Oklahoma State Department of Health for approval and that the applicant must be an Oklahoma State resident and shall prove residency by a valid drivers license, utility bills, or other accepted methods.
-
-➢ To provide that the Oklahoma State Department of Health shall review the medical marijuana application, approve/reject the application, and mail the applicants approval or rejection letter (stating reasons for rejection) to the applicant with 14 days of receipt of the application. Approved applicants will be issued a medical marijuana card which will act as proof of their approved status. 
-
-➢ To provide that the Oklahoma State Department of Health department only keeps the following records: a digital photograph of the cardholder, the expiration date of the ID card, the county where the card was issued, and a unique 24 character identification number assigned to the card. These are also the only data that is printed on the cards themselves.
-
-➢ To provide that the valid status of the identification number is made publicly available on the Oklahoman Department of Health website in an easy to find location and made available through an automated phone system, with the telephone number printed on the card.
-
-➢ To provide any additional application information and records are sealed to ensure the privacy of the cardholders and can only be obtained by subpoena.
-
-➢ To provide that the Oklahoma State Department of Health must approve all applications which meet the criteria specified in this initiative without application of any subjective criteria. 
-
-➢ To provide that a caregiver license will be made available for qualified caregivers of a medical marijuana license holder who is homebound. The caregiver license will give the caregiver the same rights as the medical license holder. Applicants for a caregiver license need to submit proof of the medical marijuana license holders homebound status, must submit proof that the caregiver is age 18 or older, and must submit proof the caregiver is an Oklahoma resident. This will be the only criteria for a caregiver license. Licensed caregivers will be issued a caregiver card which will give the cardholder the same rights as a medical marijuana licensee. 
-
-➢ Provides that all applicants must be 18 years or older. A special exception will be granted to an applicant under the age of 18, however these applications must be accompanied by a letter stating qualified medical conditions, and signed by 2 physicians and the applicants parent or legal guardian. 
+➢ Provides for a tax on medical marijuana sales at 7% of total sale. This tax will be collected at the point of sale. Tax proceeds will go to first, finance the regulatory office. Should proceeds exceed the budgeted amount for running the regulatory office, any surplus would be split with 75% going to the signed by 2 physicians and the applicants parent or legal guardian. 
 
 ➢ To provide that all applications for a medical card must be signed by an Oklahoma Board certified physician. A medical marijuana license must be prescribed according to the accepted standards that a reasonable and prudent physician would follow when recommending or approving any medication.
 
 ➢ To provide that no signing physician be stigmatized or otherwise called out for being an application signatory by any state agency. 
-
-➢ To provide that qualifying conditions for a medical marijuana card be defined as follows: o Acquired immune deficiency syndrome (AIDS), HIV infection o Anorexia, Cachexia o Arthritis o Cancer o Chronic pain o Glaucoma o Migraine headaches or chronic headaches o Persistent muscle spasms, multiple sclerosis o Seizures and Epilepsy o Severe nausea o ADD, ADHD o Depression o Anxiety o Posttraumatic stress disorder (PTSD) o Insomnia o PMS symptoms o Painful Periods o Hepatitis C o Inflammatory bowel disease (IBS) o Colitis (Chron's Disease or Ulcerative Colitis) o Urinary incontinence o Chronic abdominal pain o Chronic pelvic pain o Neuropathy o Neuralgia o Chronic low back pain o Asthma o Parkinson's disease o Huntington's chorea o Multiple Sclerosis o Wasting syndrome o A chronic or debilitating disease or medical condition or the treatment for a chronic or debilitating disease or medical condition that causes: o Cachexia or wasting syndrome; o Severe and chronic pain; o Severe nausea; o Seizures, including those characteristic of epilepsy; o Severe or persistent muscle spasms, including those characteristic of multiple sclerosis 
-
-➢ To provide that in January and July of each calendar year, the Oklahoma State Department of Health will accept written requests to add a medical condition to the list of qualifying medical conditions. The requirements for completing a request to add a medical condition include: o The name of the medical condition or the treatment of the medical condition the individual is requesting be added; o A description of the symptoms and how they make it hard to do daily living activities. The availability of conventional medical treatments to provide therapy or comfort for the condition; o A summary of the evidence that marijuana will provide therapy or comfort for the medical condition; and o Articles, published in peer-reviewed scientific journals, reporting research on the effects of marijuana on the medical condition or the treatment of the medical condition supporting why the medical condition or the treatment of the medical condition should be added. 
 
 Section 1.B - Retail Application, Qualifications, and Regulatory Provisions 
 
@@ -79,7 +55,7 @@ Section 1.C - Growers Application, Qualification, and Regulatory Provisions
 
 ➢ Provides that the Oklahoma State department of Health will within 30 days of passage of this initiative, make available, on their website, in an easy to find location, an application for a medical marijuana grower. Application fee will be $2500 and methods of payment will be provided on the website.  The Oklahoma State Department of Health must make the current status of the application available as defined in Section 1.F.
 
-➢ Provides that grower applicants must all be Oklahoma state residents and be at least 21 years of age. Any entity applying for a growing license must be held by an Oklahoma State resident and must be registered to do business in Oklahoma. 
+➢ Provides that grower applicants must all be Oklahoma state residents for at least 1 year and be at least 21 years of age. Any entity applying for a growing license must be held by an Oklahoma State resident and must be registered to do business in Oklahoma. 
 
 ➢ Provides that the Oklahoma State Department of Health has two (2) weeks to review the application, approve/reject the application, and mail the approval/rejection letter (stating reasons for rejection) to the applicant 
 
@@ -107,7 +83,7 @@ Section 1.D - Processing Application, Qualification, and Regulatory Provisions
 
 ➢ Provides that a licensed processor may take marijuana plants and distill these plants into concentrates, edibles, and other forms for consumption. 
 
-➢ Provides that processing applicants must all be Oklahoma state residents and be at least 21 years of age. Any entity applying for a processing license must be held by an Oklahoma State resident and must be registered to do business in Oklahoma. 
+➢ Provides that processing applicants must all be Oklahoma state residents for at least 1 year and be at least 21 years of age. Any entity applying for a processing license must be held by an Oklahoma State resident and must be registered to do business in Oklahoma. 
 
 ➢ Provides that the Oklahoma State Department of Health has two (2) weeks to review the application, approve/reject the application, and mail the approval/rejection letter (stating reasons for rejection) to the applicant 
 
@@ -128,7 +104,7 @@ A transportation license which will allow the legal transportation of marijuana 
 
 ➢ Provides that a licensed processor may sell marijuana products it creates to a licensed retailer, or another licensed processor. Further, these sales will be consider wholesale sales and not subject to taxation. 
 
-➢ Provides that under no circumstances may a licensed processor sell marijuana, or any marijuana product, directly to a medical marijuana license holder. 
+➢ Provides that under no circumstances may a licensed processor sell marijuana, or any marijuana product, directly to a medical marijuana license holder.
 
 ➢ Provides that processors will be required to complete a monthly yield and sales report to the Oklahoma Department of Health. This report will be due on the 15th of each month and provide reporting on the previous month. This report will detail amount of marijuana purchased in lbs, the amount of marijuana cooked or processed in lbs, and the amount of waste in lbs. Additionally, this report will show total wholesale sales in dollars. The Oklahoma state department of health will have oversight and auditing responsibilities to ensure that all marijuana being grown is accounted for. A licensed processor will only be subject to a penalty if a gross discrepancy exists and cannot be explained. Penalties for fraudulent reporting will be an initial fine of $5,000 (first) and revocation of licensing (second). 
 
